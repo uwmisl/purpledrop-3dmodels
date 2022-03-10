@@ -43,3 +43,8 @@ the plate to be set down while minimizing physical contact to only the corners.
 ![Glass holder](/images/glass_50x75mm_stand.jpg?raw=true "Glass holder")
 
 [glass_stand_50x75.stl](holders/glass_stand_50x75.stl)
+
+### Spin coater chuck
+
+There are several parts available for spin-coating top plates and dielectric
+films. They can be found in the [spin_coating sub-directory](spin_coating/).
