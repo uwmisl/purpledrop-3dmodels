@@ -48,3 +48,14 @@ the plate to be set down while minimizing physical contact to only the corners.
 
 There are several parts available for spin-coating top plates and dielectric
 films. They can be found in the [spin_coating sub-directory](spin_coating/).
+
+### Storage box for dielectric frames
+
+Hinged box to store/transport 100x75mm dielectric frames. If creating these in batches,
+it's useful to have a safe place to store them to keep safe from accidental contact
+and dust.
+
+![Dielectric Frame Box](/images/dielectric_frame_box.jpg?raw=true "Dielectric Frame Box")
+
+[dielectric_frame_box.stl](storage/dielectric_frame_box.stl)
+[dielectric_frame_box.f3d](storage/dielectric_frame_box.f3d)
